@@ -1,4 +1,4 @@
-# SSL-by-MLP
-Semi-Supervised Learning by Mixed Label Propagation
+## Label Propagation
+Learning from labeled and unlabeled data with label propagation
 
-Implementation of [this paper](https://www.aaai.org/Papers/AAAI/2007/AAAI07-103.pdf)
+Implementation of [this paper](http://mlg.eng.cam.ac.uk/zoubin/papers/CMU-CALD-02-107.pdf)
