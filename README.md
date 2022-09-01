@@ -3,4 +3,4 @@ This is the code for reproducing the results in the paper [Learning from labeled
 
 ## Quick start
 
-Download train.csv can be downloaded from [here](https://www.kaggle.com/c/digit-recognizer). Place it in the directory containing the experiment.ipynb.
+Download train.csv from [here](https://www.kaggle.com/c/digit-recognizer). Place it in the directory containing the experiment.ipynb.
